@@ -37,6 +37,7 @@
     "@react-navigation/native": "^6.0.2",
     "@react-navigation/native-stack": "^6.0.2",
     "@reduxjs/toolkit": "^2.2.7",
+    "@repo/store": "0.0.0",
     "@shopify/flash-list": "1.6.4",
     "@supabase/supabase-js": "^2.45.3",
     "apisauce": "3.0.1",

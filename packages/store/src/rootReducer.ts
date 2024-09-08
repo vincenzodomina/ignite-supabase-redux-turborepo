@@ -1,5 +1,5 @@
 import { combineReducers } from '@reduxjs/toolkit';
-import { reducer as appStateReducer } from 'src/slices/app.slice';
+import { reducer as appStateReducer } from './slices/app.slice';
 
 const appReducer = combineReducers({
   app: appStateReducer,

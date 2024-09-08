@@ -1,0 +1,19 @@
+# OSX
+#
+.DS_Store
+
+dist
+
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# VS Code
+.vscode
+
+# Configurations
+!env.js
+.env
+.env.local
