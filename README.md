@@ -21,6 +21,16 @@ The recipes and docs i went through:
 - Add Reactotron according to https://docs.infinite.red/reactotron/plugins/redux/
 - Expo support for Turborepo according to https://docs.expo.dev/guides/monorepos/
 
+## Getting Started
+
+This starts the Ignite mobile app through Expo
+
+```
+npm install
+cd ./apps/mobile
+npx expo start
+```
+
 ## What's inside?
 
 This Turborepo includes the following packages/apps:
